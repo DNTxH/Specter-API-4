@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DNTxH/Specter-API-4
+build-by-default: true
+branches:
+- main
+projects:
+  Specter-API-4:
+    path: ""
+...
